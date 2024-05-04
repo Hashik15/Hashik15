@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Tech**
 
-- 📫 How to reach me **hashikdinesh@gm**
+- 📫 How to reach me **hashikdinesh@gmail**
 
 - ⚡ Fun fact **"In 1990, the WWW was boarn at CERN,revolutionizing global communication."**
 
