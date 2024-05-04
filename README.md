@@ -1,7 +1,7 @@
 <h1 align="center">Hy 👋,there! it's me Hashik</h1>
 <h3 align="center">Enthusiastic, junior full stack developer with solid accomplishments</h3>
 
-- 🔭 Here's my [Resume](https://drive.google.com/file/d/1U2_Wb4LE-tpbMRIgJ-1Y2CSCcYvkxdlp/view?usp=drivesdk)
+- 🔭 Here's my [Resume](https://drive.google.com/file/d/1KrvvmnfOUDVujR7cS54r2Gh0rwhH_2Ss/view?usp=drivesdk)
 
 - 🌱 I’m currently learning **AI/ML**
 
