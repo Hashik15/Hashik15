@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashik15" alt="hashik15" /></a> </p>
 
-- 🔭 Here's my Resume [https://drive.google.com/file/d/1U2_Wb4LE-tpbMRIgJ-1Y2CSCcYvkxdlp/view?usp=drivesdk](https://drive.google.com/file/d/1U2_Wb4LE-tpbMRIgJ-1Y2CSCcYvkxdlp/view?usp=drivesdk)
+- 🔭 Here's my [Resume](https://drive.google.com/file/d/1U2_Wb4LE-tpbMRIgJ-1Y2CSCcYvkxdlp/view?usp=drivesdk)
 
 - 🌱 I’m currently learning **AI/ML**
 
