@@ -1,6 +1,8 @@
 <h1 align="center">Hy 👋,there! it's me Hashik</h1>
 <h3 align="center">Enthusiastic, junior full stack developer with solid accomplishments</h3>
 
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 - 🔭 Here's my [Resume](https://drive.google.com/file/d/1KrvvmnfOUDVujR7cS54r2Gh0rwhH_2Ss/view?usp=drivesdk)
 
 - 🌱 I’m currently learning **AI/ML**
