@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hashikdinesh@gm**
 
-- ⚡ Fun fact **"In 1990, the WWW was boarn at CERN,revolutionizing global communication."**
+- ⚡ Fun fact **"In 1990, the WWW was born at CERN,revolutionizing global communication."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
